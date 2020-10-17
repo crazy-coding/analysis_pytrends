@@ -1,0 +1,131 @@
+
+
+ // Core
+
+@import "client/custom/functions";
+@import "client/bootstrap/functions";
+
+@import "client/custom/variables";
+@import "client/bootstrap/variables";
+
+@import "client/custom/mixins";
+@import "client/bootstrap/mixins";
+
+ // Bootstrap components
+
+@import "client/bootstrap/root";
+@import "client/bootstrap/reboot";
+@import "client/bootstrap/type";
+@import "client/bootstrap/images";
+@import "client/bootstrap/code";
+@import "client/bootstrap/grid";
+@import "client/bootstrap/tables";
+@import "client/bootstrap/forms";
+@import "client/bootstrap/buttons";
+@import "client/bootstrap/transitions";
+@import "client/bootstrap/dropdown";
+@import "client/bootstrap/button-group";
+@import "client/bootstrap/input-group";
+@import "client/bootstrap/custom-forms";
+@import "client/bootstrap/nav";
+@import "client/bootstrap/navbar";
+@import "client/bootstrap/card";
+@import "client/bootstrap/breadcrumb";
+@import "client/bootstrap/pagination";
+@import "client/bootstrap/badge";
+@import "client/bootstrap/jumbotron";
+@import "client/bootstrap/alert";
+@import "client/bootstrap/progress";
+@import "client/bootstrap/media";
+@import "client/bootstrap/list-group";
+@import "client/bootstrap/close";
+@import "client/bootstrap/modal";
+@import "client/bootstrap/tooltip";
+@import "client/bootstrap/popover";
+@import "client/bootstrap/carousel";
+@import "client/bootstrap/utilities";
+@import "client/bootstrap/print";
+
+ // Custom components
+
+ @import "client/custom/reboot.scss";
+ @import "client/custom/global.scss";
+ @import "client/custom/utilities.scss";
+ @import "client/custom/alerts.scss";
+ @import "client/custom/avatars.scss";
+ @import "client/custom/badge.scss";
+ @import "client/custom/buttons.scss";
+ @import "client/custom/close.scss";
+ @import "client/custom/custom-forms.scss";
+ @import "client/custom/dropdown.scss";
+ @import "client/custom/footer.scss";
+ @import "client/custom/forms.scss";
+ @import "client/custom/grid.scss";
+ @import "client/custom/icons.scss";
+ @import "client/custom/images.scss";
+ @import "client/custom/input-group.scss";
+ @import "client/custom/info-areas.scss";
+ @import "client/custom/modal.scss";
+ @import "client/custom/nav.scss";
+ @import "client/custom/navbar.scss";
+ @import "client/custom/pagination.scss";
+ @import "client/custom/tabs.scss";
+ @import "client/custom/pills.scss";
+ @import "client/custom/popover.scss";
+ @import "client/custom/progress.scss";
+ @import "client/custom/type.scss";
+ @import "client/custom/tables";
+ @import "client/custom/checkboxes-radio";
+ @import "client/custom/fixed-plugin";
+ @import "client/custom/sidebar-and-main-panel.scss";
+ @import "client/custom/misc.scss";
+ @import "client/custom/rtl.scss";
+ @import "client/custom/timeline.scss";
+
+ // Vendor / Plugins
+
+@import "client/custom/vendor/plugin-datetimepicker.scss";
+@import "client/custom/vendor/plugin-nouislider.scss";
+@import "client/custom/vendor/plugin-fullcalendar.scss";
+@import "client/custom/vendor/plugin-sweetalert2.scss";
+@import "client/custom/vendor/plugin-bootstrap-switch.scss";
+@import "client/custom/vendor/plugin-bootstrap-select.scss";
+@import "client/custom/vendor/plugin-jasny-fileupload.scss";
+@import "client/custom/vendor/plugin-tagsinput.scss";
+@import "client/custom/vendor/plugin-perfect-scrollbar.scss";
+@import "client/custom/vendor/plugin-jquery.jvectormap.scss";
+@import "client/custom/vendor/plugin-datatables.net.scss";
+@import "client/custom/vendor/plugin-animate-bootstrap-notify.scss";
+@import "client/custom/vendor/plugin-card-wizard.scss";
+@import "client/custom/vendor/plugin-chartjs.scss";
+
+// example pages and sections
+
+@import "client/custom/example-pages.scss";
+
+// light mode
+
+@import "client/custom/white-content.scss";
+
+// Cards
+
+@import 'client/custom/card';
+@import "client/custom/cards/card-chart";
+@import "client/custom/cards/card-map";
+@import "client/custom/cards/card-user";
+@import "client/custom/cards/card-task";
+@import "client/custom/cards/card-animation-on-hover";
+@import "client/custom/cards/card-collapse";
+@import "client/custom/cards/card-contributions";
+@import "client/custom/cards/card-lock";
+@import "client/custom/cards/card-pricing";
+@import "client/custom/cards/card-profile";
+@import "client/custom/cards/card-plain";
+@import "client/custom/cards/card-register";
+@import "client/custom/cards/card-stats";
+@import "client/custom/cards/card-subcategories";
+@import "client/custom/cards/card-testimonials";
+@import "client/custom/cards/card-wizard";
+
+// React Differences
+@import "client/react/react-differences";
